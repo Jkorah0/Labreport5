@@ -6,7 +6,7 @@ Original post:
 
 TA repsonse:
 
-![Image](step4.jpg)
+![Image](taresponsetostudent.jpg)
 
 Student response to TA:
 
